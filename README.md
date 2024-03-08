@@ -1,4 +1,4 @@
-# Trajectory Tracking**
+# Trajectory Tracking
 ![gif](outputs/project1.gif)
 ![image1](outputs/page1.jpg)
 ![image2](outputs/page2.jpg)
